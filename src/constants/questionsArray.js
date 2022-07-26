@@ -22,7 +22,7 @@ let questionsArray = [
     {
       question: "What is your career goal",
       resumeField: "Career goal",
-      resumeFieldId: "objective",
+      resumeFieldId: "goal",
     },
     {
       question: "What are your skills and abilities",
@@ -39,6 +39,11 @@ let questionsArray = [
       resumeField: "Educational Qualifications",
       resumeFieldId: "education",
     },
+    {
+      question: "Training done",
+      resumeField: "Training Certifications",
+      resumeFieldId: "training",
+    }
   ];
   export default questionsArray;
 
