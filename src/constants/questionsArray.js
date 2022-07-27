@@ -39,11 +39,7 @@ let questionsArray = [
       resumeField: "Educational Qualifications",
       resumeFieldId: "education",
     },
-    {
-      question: "Training done",
-      resumeField: "Training Certifications",
-      resumeFieldId: "training",
-    }
+   
   ];
   export default questionsArray;
 
